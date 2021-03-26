@@ -5,3 +5,5 @@ Prosty przykład implementacji w OpenCV algorytmu detekcji obiektów na obrazach
 # Uruchomienie
 
 Jest to prosta demonstracja, niewymagająca GPU, a wszystkie potrzebne katalogi i pliki zostaną utworzone i ściągnięte w środowisku uruchomieniowym Colaba. Wystarczy uruchamiać poszczególne komórki!
+
+An English version is coming soon...
